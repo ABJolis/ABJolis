@@ -8,5 +8,5 @@ If I'm not programming, you can probably find me out in nature or curled up with
 
 - Working on my side project: [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), a mobile app using Angular and Typescript, that alerts users to exchange-rate changes.
 - Honing my front-end skills by making CSS art, building chatbots, and anything else that will improve my programming and put a smile on someone's face. (See this green monster-person to your right? He consists of only a single HTML div! Check out the [Monster Friends](https://github.com/ABJolis/monsterfriends) to see how I made him!)
-![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
+![Green monster-person with twinkling stars]<img src="https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif" width="100" height="100" />
 
