@@ -7,6 +7,6 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ## What I'm doing now:
 - Collaborating to deploy [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md)
 - Working on my side project, [CurrencyCue](https://github.com/ABJolis/currency_cue#readme)
-- Making CSS art like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here! 
+- Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here: 
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
 
