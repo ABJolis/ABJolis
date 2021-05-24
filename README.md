@@ -17,6 +17,6 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 <code><img height="40" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/typescript.png"></code>
 <code><img height="40" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png"></code>
 <code><img height="40" alt="Jest" src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png"></code>
-<code><img height="40" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpg"></code>
+<code><img height="40" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg"></code>
 <code><img height="40" alt="PostgreSQL" src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png"></code>
 <code><img height="40" alt="React" src="https://github.com/ABJolis/ABJolis/raw/master/logos/react.png"></code>
