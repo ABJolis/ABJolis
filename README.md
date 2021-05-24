@@ -1,14 +1,11 @@
 ## Hi! I'm Anne, a full-stack developer from London.
-
 I'm an engineer on [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md) and a graduate of [Codeworks](https://github.com/codeworks/). Before falling in love with software development, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools help people solve problems and tell stories.
 
 If I'm not programming, I'm probably writing, drawing, or out in nature.
 
 ## My Languages and Tools
-
-<code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
-<code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
 <code><img height="40" alt="CSS" src="https://github.com/ABJolis/ABJolis/raw/master/logos/css.png"></code>
+<code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
 <code><img height="40" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png"></code>
 <code><img height="40" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/typescript.png"></code>
 <code><img height="40" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png"></code>
