@@ -11,3 +11,8 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
 
 ## My Languages and Tools
+(https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png)
+(https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png)
+(https://github.com/ABJolis/ABJolis/raw/master/logos/javascript.png)
+(https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png)
+(https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg)
