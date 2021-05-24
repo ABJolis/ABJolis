@@ -4,12 +4,6 @@ I'm an engineer on [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/developme
 
 If I'm not programming, I'm probably writing, drawing, or out in nature.
 
-## What I'm doing now:
-- Collaborating to deploy [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a full-stack React Native app for tracking emotional states.
-- Planning the back-end for my side project [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that alerts users to exchange-rate fluctuations.
-- Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here:
-![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
-
 ## My Languages and Tools
 
 <code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
@@ -20,3 +14,9 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 <code><img height="40" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg"></code>
 <code><img height="40" alt="PostgreSQL" src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png"></code>
 <code><img height="40" alt="React" src="https://github.com/ABJolis/ABJolis/raw/master/logos/react.png"></code>
+
+## What I'm doing now:
+- Collaborating to deploy [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a full-stack React Native app for tracking emotional states.
+- Planning the back-end for my side project [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that alerts users to exchange-rate fluctuations.
+- Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here:
+![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
