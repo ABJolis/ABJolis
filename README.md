@@ -18,3 +18,5 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ![Jest](https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png)
 ![Mongo](https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg)
 ![PostgreSQL](https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png)
+![React](https://github.com/ABJolis/ABJolis/raw/master/logos/react.png)
+![Prisma](https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png)
