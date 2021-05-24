@@ -11,13 +11,12 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
 
 ## My Languages and Tools
-<!-- ![Angular](https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png=20x20) -->
+<!-- ![Angular](https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png) -->
 <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png" width=20>
-![Ionic](https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png)
-![JavaScript](https://github.com/ABJolis/ABJolis/raw/master/logos/javascript.png)
-![Prisma](https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png)
-![Jest](https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png)
-![Mongo](https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg)
-![PostgreSQL](https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png)
-![React](https://github.com/ABJolis/ABJolis/raw/master/logos/react.png)
-![Prisma](https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png)
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/javascript.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png" width=20>
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/react.png" width=20>
