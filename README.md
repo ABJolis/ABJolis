@@ -11,12 +11,12 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
 
 ## My Languages and Tools
-<!-- ![Angular](https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png) -->
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/javascript.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png" width=20>
-<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/react.png" width=20>
+
+<code><img height="35" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
+<code><img height="35" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Ionic.png"></code>
+<code><img height="35" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/TypeScript.png"></code>
+<code><img height="35" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Prisma.png"></code>
+<code><img height="35" alt="Jest" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Jest.png"></code>
+<code><img height="35" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Mongo.png"></code>
+<code><img height="35" alt="PostgreSQL" src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png"></code>
+<code><img height="35" alt="React" src="https://github.com/ABJolis/ABJolis/raw/master/logos/React.png"></code>
