@@ -11,7 +11,8 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
 
 ## My Languages and Tools
-![Angular](https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png=20x20)
+<!-- ![Angular](https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png=20x20) -->
+<img src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png" width=20>
 ![Ionic](https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png)
 ![JavaScript](https://github.com/ABJolis/ABJolis/raw/master/logos/javascript.png)
 ![Prisma](https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png)
