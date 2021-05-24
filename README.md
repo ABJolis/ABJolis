@@ -7,6 +7,7 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ## My Languages and Tools
 
 <code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
+<code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
 <code><img height="40" alt="CSS" src="https://github.com/ABJolis/ABJolis/raw/master/logos/css.png"></code>
 <code><img height="40" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png"></code>
 <code><img height="40" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/typescript.png"></code>
