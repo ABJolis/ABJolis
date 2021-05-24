@@ -13,10 +13,10 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 ## My Languages and Tools
 
 <code><img height="35" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
-<code><img height="35" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Ionic.png"></code>
-<code><img height="35" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/TypeScript.png"></code>
-<code><img height="35" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Prisma.png"></code>
-<code><img height="35" alt="Jest" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Jest.png"></code>
-<code><img height="35" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/Mongo.png"></code>
+<code><img height="35" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png"></code>
+<code><img height="35" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/typeScript.png"></code>
+<code><img height="35" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png"></code>
+<code><img height="35" alt="Jest" src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png"></code>
+<code><img height="35" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.png"></code>
 <code><img height="35" alt="PostgreSQL" src="https://github.com/ABJolis/ABJolis/raw/master/logos/postgresql.png"></code>
-<code><img height="35" alt="React" src="https://github.com/ABJolis/ABJolis/raw/master/logos/React.png"></code>
+<code><img height="35" alt="React" src="https://github.com/ABJolis/ABJolis/raw/master/logos/react.png"></code>
