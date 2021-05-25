@@ -9,7 +9,7 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 <code><img height="40" alt="Angular" src="https://github.com/ABJolis/ABJolis/raw/master/logos/angular.png"></code>
 <code><img height="40" alt="Ionic" src="https://github.com/ABJolis/ABJolis/raw/master/logos/ionic.png"></code>
 <code><img height="40" alt="TypeScript" src="https://github.com/ABJolis/ABJolis/raw/master/logos/typescript.png"></code>
-<code><img height="40" alt="ExpressJS" src="https://github.com/ABJolis/ABJolis/raw/master/logos/expressjs.png"></code>
+<code><img height="40" alt="ExpressJS" src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor"></code>
 <code><img height="40" alt="Prisma" src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png"></code>
 <code><img height="40" alt="Jest" src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png"></code>
 <code><img height="40" alt="Mongo" src="https://github.com/ABJolis/ABJolis/raw/master/logos/mongo.jpeg"></code>
