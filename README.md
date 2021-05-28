@@ -5,7 +5,6 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 
 ## My Languages and Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
 <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a>
