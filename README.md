@@ -4,7 +4,6 @@ I'm an engineer at <a href="http://moodyapp.me/" target="_blank">MoodyApp</a> an
 If I'm not programming, I'm probably writing, drawing, or out in nature.
 
 ## My Languages and Tools
-
 <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a>
