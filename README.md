@@ -18,7 +18,7 @@ If I'm not programming, I'm probably writing, drawing, or out in nature.
 <a href="https://jestjs.io/"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" alt="Jest" width="40" height="40"> </a>
 
 ## What I'm doing now:
-- Collaborating on [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a React Native app for recording emotional states.
+- Collaborating on [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a React Native app for documenting emotional states.
 - Planning the back-end for my side project [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that tracks exchange-rate fluctuations.
 - Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here:
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
