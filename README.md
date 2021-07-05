@@ -1,5 +1,5 @@
 ## Hi! I'm Anne, a full-stack developer from London.
-I'm an engineer at <a href="http://moodyapp.me/" target="_blank">MoodyApp</a> and a graduate of <a href="https://github.com/codeworks/" target="_blank">Codeworks</a>. Before falling in love with software development, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools that help people solve problems.
+I'm an engineer at <a href="http://moodyapp.me/" target="_blank">MoodyApp</a> and a graduate of <a href="https://github.com/codeworks/" target="_blank">Codeworks</a>. Before falling in love with software development, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools that help people solve problems and tell stories.
 
 If I'm not programming, I'm probably writing, drawing, or out in nature.
 
