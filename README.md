@@ -1,5 +1,5 @@
 ## Hi! I'm Anne, a full-stack developer from London.
-I'm an engineer at <a href="http://moodyapp.me/" target="_blank">MoodyApp</a> and a graduate of <a href="https://github.com/codeworks/" target="_blank">Codeworks</a>. Before falling in love with software development, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools to help people solve problems and tell stories.
+I'm a developer at <a href="https://www.madebyon.com/" target="_blank">ON</a>, previously at <a href="http://moodyapp.me/" target="_blank">MoodyApp</a>, and a graduate of <a href="https://github.com/codeworks/" target="_blank">Codeworks</a>. Before falling in love with software development, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools to help people solve problems and tell stories.
 
 When I'm not programming, I'm probably writing, drawing, or out in nature.
 
@@ -18,8 +18,8 @@ When I'm not programming, I'm probably writing, drawing, or out in nature.
 <a href="https://www.prisma.io/"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png" alt="Prisma" width="40" height="40"> </a>
 <a href="https://jestjs.io/"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" alt="Jest" width="40" height="40"> </a>
 
-## What I'm doing now:
-- Collaborating on [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a React Native app for documenting emotional states.
-- Planning the back-end for my side project [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that tracks exchange-rate fluctuations.
+## Side projects include:
+- Working on authentication for [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a React Native app for documenting emotional states.
+- Refactoring the back-end for [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that tracks exchange-rate fluctuations.
 - Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here:
 ![Green monster-person with twinkling stars](https://github.com/ABJolis/MyReadMe/raw/master/GreenManGif.gif)
