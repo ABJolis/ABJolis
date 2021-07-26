@@ -18,7 +18,7 @@ When I'm not programming, I'm probably writing, drawing, or out in nature.
 <a href="https://www.prisma.io/"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/prisma.png" alt="Prisma" width="40" height="40"> </a>
 <a href="https://jestjs.io/"> <img src="https://github.com/ABJolis/ABJolis/raw/master/logos/jest.png" alt="Jest" width="40" height="40"> </a>
 
-## Side projects include:
+## Recent projects include:
 - Working on authentication for [MoodyApp](https://github.com/BOUNCE8/MoodyApp/blob/development/README.md), a React Native app for documenting emotional states.
 - Refactoring the back-end for [CurrencyCue](https://github.com/ABJolis/currency_cue#readme), an Angular app that tracks exchange-rate fluctuations.
 - Honing my front-end skills by making CSS art, like my [Monster Friend](https://github.com/ABJolis/monsterfriends) here:
