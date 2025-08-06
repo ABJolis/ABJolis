@@ -1,5 +1,5 @@
-## Hi! I'm Anne, a developer from London.
-I'm a developer at <a href="https://www.madebyon.com/" target="_blank">ON</a> and a graduate of <a href="https://github.com/codeworks/" target="_blank">Codeworks</a>. Before falling in love with software and web engineering, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools to help people solve problems and tell stories.
+## Hi! I'm Anne, a developer from New York.
+I'm a fullstack developer, having graduated from <a href="https://github.com/codeworks/" target="_blank">Codeworks</a> in 2021. Before falling in love with software and web engineering, I was a journalist. My background in communications and conflict reporting makes me especially passionate about building robust, accessible tools to help people solve problems and tell stories.
 
 When I'm not programming, I'm probably writing, drawing, or out in nature.
 
