@@ -1,4 +1,4 @@
-## Hi! I'm Anne, a writer and from New York.
+## Hi! I'm Anne, a writer and developer from New York.
 I'm a fullstack developer, writer and editor. I graduated from <a href="https://github.com/codeworks/" target="_blank">Codeworks</a> in 2021, and have since combined my background in communications and conflict reporting with my love of all things software and web engineering. I am passionate about building robust, accessible tools to help people solve problems and tell stories.
 
 When I'm not programming, I'm probably writing, drawing, or out in nature.
